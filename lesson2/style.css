@@ -1,0 +1,41 @@
+h1 {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: underline wavy rgb(255, 255, 255);
+    font-weight: 800;
+}
+h2 {
+    font-size: 28px;
+    color: rgb(239, 118, 231);
+    text-decoration: underline dashed;
+    font-weight: 700;
+}
+h3 {
+    font-size: 24px;
+    color: rgb(230, 126, 227);
+    text-decoration: underline dotted;
+    font-weight: 700;
+
+}
+h2 {
+    background-color: rgb(255, 255, 255);
+}
+h3 {
+    background-color: rgb(255, 255, 255);
+}
+p {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    border-top: 4px solid rgb(255, 255, 255);
+    border-right: 4px double rgb(255, 255, 255);
+    border-bottom: 4px solid rgb(255, 255, 255);
+    border-left: 4px double rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 15px;
+
+}
+body {
+    background-color: rgb(234, 112, 201);
+}
