@@ -1,0 +1,16 @@
+table ,
+th,
+td
+{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+}
+body {
+    width: 500px;
+    border-collapse: collapse ;
+}
