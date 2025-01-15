@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    letter-spacing: 0;
+}
+.head {
+    display: flex;
+    color: black;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid rgb(159, 157, 157);
+    justify-content: space-between;
+}
+.logo {
+    width: 50px;
+    margin: 25px 40px;
+}
+.links {
+    margin-left: 700px;
+    margin-top: 40px;
+}
+.links a {
+    color: black;
+}
+.link a {
+    color: black;
+}
+.link {
+    margin-top: 40px;
+    margin-left: -100px;
+    letter-spacing: 10px;
+}
+.registration {
+    margin-right: -70px;
+    margin-left: -10px;
+    margin-top: 40px;
+}
+.registration a {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    padding: 6px 11px;
+    border-radius: 10px;
+    color: black;
+}
+.registration0 {
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.registration0 a {
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 6px 11px;
+}
+.head2 {
+    display: flex;
+}
+.mean {
+    color: darkgreen;
+    background-color: rgb(231, 255, 183);
+   margin: 33px 33px 37px 0;
+   font-weight: 900;
+   text-align: center;
+}
+.mean h1 {
+    font-size: 60px;
+}
+.main-head {
+    padding-top: 230px;
+}
+.main-header {
+    padding-top: 20px;
+}
+.button a {
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+}
+.button {
+    margin-top: 15px;
+}
+.logo1 {
+    width: 720px;
+    margin: 33px 0 33px 33px;
+}
+
+.head3 {
+    display: flex;
+}
+.mean0 {
+    color: darkgreen;
+    background-color: rgb(231, 255, 183);
+   margin: 33px 33px 37px 0;
+   font-weight: 900;
+   text-align: center;
+}
+.mean0 h1 {
+    font-size: 60px;
+}
+.main-head0 {
+    padding-top: 230px;
+}
+.main-header0 {
+    padding-top: 20px;
+}
+.button0 a {
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+}
+.button0 {
+    margin-top: 15px;
+}
+.logo2 {
+    width: 720px;
+    margin: 33px 0 33px 33px;
+}
+.head4 {
+    display: flex;
+}
+.mean1 {
+    color: darkgreen;
+    background-color: rgb(231, 255, 183);
+   margin: 33px 33px 37px 0;
+   padding-right: 40px;
+   padding-left: 40px;
+   font-weight: 900;
+   text-align: center;
+}
+.mean1 h1 {
+    font-size: 40px;
+}
+.main-head1 {
+    padding-top: 100px;
+}
+.main-header1 {
+    padding-top: 20px;
+}
+.button1 a {
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+}
+.button1 {
+    margin-top: 15px;
+}
+.logo3 {
+    width: 720px;
+    margin: 33px 0 33px 33px;
+}
