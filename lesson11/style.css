@@ -146,6 +146,30 @@ nav .active::after {
     border-radius: 5px;
     margin-right: 40px;
 }
+.boxs1:hover {
+   border-radius: 5px;
+    background-color: rgb(137, 142, 145);
+    color: black;
+    transition: 0.2s;
+}
+.boxs2:hover {
+    border-radius: 5px;
+     background-color: rgb(137, 142, 145);
+     color: black;
+     transition: 0.2s;
+ }
+ .boxs3:hover {
+    border-radius: 5px;
+     background-color: rgb(137, 142, 145);
+     color: black;
+     transition: 0.2s;
+ }
+ .boxs4:hover {
+    border-radius: 5px;
+     background-color: rgb(137, 142, 145);
+     color: black;
+     transition: 0.2s;
+ }
 .logo1 {
     margin-top: 30px;
     margin-left: 20px;
@@ -267,6 +291,7 @@ nav .active::after {
 }
 .boxs img {
     width: 188px;
+    margin-top: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
 }
