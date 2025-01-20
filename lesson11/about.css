@@ -117,7 +117,7 @@ nav .active::after {
 }
 .mainboxes1 {
     border: 1px solid rgba(223, 223, 223, 1);
-    background-color: rgba(223, 223, 223, 1);
+    background-color: rgb(244, 240, 240);
     border-radius: 6px;
     margin-top: -25px;
     padding: 80px 90px;
@@ -125,14 +125,14 @@ nav .active::after {
 }
 .mainboxes2 {
     border: 1px solid rgba(223, 223, 223, 1);
-    background-color: rgba(223, 223, 223, 1);
+    background-color: rgb(244, 240, 240);
     border-radius: 6px;
     padding: 80px 90px;
     margin-bottom: 40px ;
 }
 .mainboxes3{
     border: 1px solid rgba(223, 223, 223, 1);
-    background-color: rgba(223, 223, 223, 1);
+    background-color: rgb(244, 240, 240);
     border-radius: 6px;
     padding: 60px 70px;
 
@@ -141,7 +141,7 @@ nav .active::after {
 .main-box1 {
     border: 1px solid rgba(223, 223, 223, 1);
     border-radius: 6px;
-    background-color: rgba(223, 223, 223, 1);
+    background-color: rgb(244, 240, 240);
     margin-top: -25px;
     padding: 60px 70px;
     margin-bottom: 40px;
@@ -149,7 +149,7 @@ nav .active::after {
 }
 .main-box2 {
     border: 1px solid rgba(223, 223, 223, 1);
-    background-color: rgba(223, 223, 223, 1);
+    background-color: rgb(244, 240, 240);
     border-radius: 6px;
     padding: 60px 70px;
     margin-bottom: 40px ;
@@ -157,7 +157,7 @@ nav .active::after {
 }
 .main-box3{
     border: 1px solid rgba(223, 223, 223, 1);
-    background-color: rgba(223, 223, 223, 1);
+    background-color: rgb(244, 240, 240);
     border-radius: 6px;
     padding: 60px 70px;
     height: 355px;
