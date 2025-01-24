@@ -4,6 +4,8 @@
     outline: none;
     text-decoration: none;
     box-sizing: border-box;
+    text-decoration: none;
+    letter-spacing: 0;
 }
 
 @font-face {

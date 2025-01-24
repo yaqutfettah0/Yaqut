@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    letter-spacing: 0;
+}
+.navbar {
+    background-color: rgba(16, 21, 36, 1);
+ 
+}
+@font-face {
+    font-family: opensans;
+    src: url('./fonts/open-sans/OpenSans-Regular.ttf');
+}
+body {
+    font-family: opensans, sans-serif ;
+}
+.container {
+    margin: auto;
+    width: 1200px;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+nav a {
+    color: rgba(206, 205, 205, 1);
+    margin-left: 30px;
+    display: inline-block;
+}
+nav .active {
+    color: #fff;
+    font-weight: 700;
+}
+nav a::after {
+    content: '';
+    display: block;
+    width: 0%;
+    height: 3px;
+    border-radius: 20px;
+    transition: 0.4s;
+    margin-top: 5px;
+    margin-inline: auto;
+    background-color: #fff;
+}
+nav a:hover::after {
+    width: 80%;
+
+}
+nav .active::after {
+    width: 80%;
+
+}
+.main {
+    background: url(./image/image\ 18.png) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 180px;
+    padding-bottom: 230px;
+}
+.main h1 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 900;
+    font-size: 40px;
+}
+.main p {
+    color: rgba(223, 223, 223, 1);
+    width: 55%;
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 40px;
+}
+.main-box1 {
+    border: 5px solid rgba(43, 167, 226, 1);
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin-right: 40px;
+}
+.main-box2 {
+    border: 5px solid rgba(43, 167, 226, 1);
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin-right: 40px;
+}
+.main-box3 {
+    border: 5px solid rgba(43, 167, 226, 1);
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.main-head {
+    color: rgba(12, 16, 26, 1);
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.main-box1 img {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.main-box2 img {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.main-box3 img {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.main-text {
+    text-align: center;
+}
+.main-text p {
+    margin-top: 10px;
+}
+.main-boxs {
+    display: flex;
+    margin-left: 360px;
+    padding-bottom: 150px;
+}
+.main2 {
+    background-color: rgba(43, 167, 226, 1);
+    padding-bottom: 80px;
+}
+.main-texts {
+    width: 565px;
+    margin-left: 165px;
+}
+.main-top {
+    display: flex;
+    padding-top: 110px;
+}
+.main-texts p {
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.main-texts h4  {
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+.main-img {
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.main-button a {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    border: 2px solid rgba(255, 255, 255, 1);
+    border-radius: 4px;
+    padding: 8px 18px;
+}
+.foot {
+    display: flex;
+    border: 1px solid rgba(249, 249, 249, 1);
+    background-color: rgba(249, 249, 249, 1);
+    box-shadow: 0 0 0 2px rgb(196, 196, 198);
+    margin-top: 100px;
+    padding: 50px;
+}
+.foot-box1 {
+    margin-left: 100px;
+}
+.foot-box1 img {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.footerbox1 {
+    width: 50%;
+}
+.footerbox1 p {
+    color: rgba(55, 63, 65, 1);
+    margin-bottom: 20px;
+}
+.footerbox1 h5 {
+    padding: 5px;
+    margin-left: 13px;
+}
+.foot-box4 {
+    margin-right: 100px;
+}
+.foot-box3 {
+    margin-right: 180px;
+}
+.foot-box2 {
+    margin-right: 200px;
+}
+.imgss {
+    display: flex;
+}
+.footerbox2 h5 {
+    font-weight: 800;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.footerbox2 p {
+    color: rgba(55, 63, 65, 1);
+    margin-top: 10px;
+}
+.footerbox3 p {
+    margin-top: 10px;
+    color: rgba(55, 63, 65, 1);
+}
+.footerbox3 h5 {
+    font-weight: 800;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.imgss img {
+    width: 40px;
+}
+.imginsta img {
+    margin-top: -5px;
+    width: 50px;
+}
+.foter {
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
