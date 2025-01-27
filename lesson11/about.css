@@ -38,7 +38,7 @@ nav .active {
     color: #fff;
     font-weight: 700;
 }
-nav a::after {
+nav a::before {
     content: '';
     display: block;
     width: 0%;
